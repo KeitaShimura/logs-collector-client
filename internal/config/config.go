@@ -1,4 +1,3 @@
-// internal/config/config.go（クライアント用）
 package config
 
 import (

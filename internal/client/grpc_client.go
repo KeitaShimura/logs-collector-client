@@ -9,7 +9,7 @@ import (
 	"google.golang.org/grpc/credentials/insecure"
 	"google.golang.org/protobuf/types/known/timestamppb"
 
-	"github.com/KeitaShimura/logs-collector-client/model"
+	"github.com/KeitaShimura/logs-collector-client/internal/model"
 	pb "github.com/KeitaShimura/logs-collector-protos/go/logs/v1"
 )
 

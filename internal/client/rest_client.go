@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/KeitaShimura/logs-collector-client/model"
+	"github.com/KeitaShimura/logs-collector-client/internal/model"
 )
 
 // ErrUnexpectedHTTPStatus は、想定外の HTTP ステータスが返された場合のエラー

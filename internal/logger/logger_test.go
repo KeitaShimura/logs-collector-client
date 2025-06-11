@@ -9,7 +9,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/KeitaShimura/logs-collector-client/logger"
+	"github.com/KeitaShimura/logs-collector-client/internal/logger"
 )
 
 // 共通エラー定義

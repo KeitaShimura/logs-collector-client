@@ -10,10 +10,10 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/KeitaShimura/logs-collector-client/client"
-	"github.com/KeitaShimura/logs-collector-client/config"
-	"github.com/KeitaShimura/logs-collector-client/logger"
-	"github.com/KeitaShimura/logs-collector-client/model"
+	"github.com/KeitaShimura/logs-collector-client/internal/client"
+	"github.com/KeitaShimura/logs-collector-client/internal/config"
+	"github.com/KeitaShimura/logs-collector-client/internal/logger"
+	"github.com/KeitaShimura/logs-collector-client/internal/model"
 )
 
 // 共通エラー定義

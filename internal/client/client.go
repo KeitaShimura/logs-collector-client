@@ -3,7 +3,7 @@ package client
 import (
 	"context"
 
-	"github.com/KeitaShimura/logs-collector-client/model"
+	"github.com/KeitaShimura/logs-collector-client/internal/model"
 )
 
 // Client はログの送信および取得を行うためのインターフェース

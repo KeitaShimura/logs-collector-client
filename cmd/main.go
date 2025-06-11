@@ -4,6 +4,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
+	"math"
 	"os"
 	"time"
 
@@ -275,7 +276,7 @@ func runRESTGet(ctx context.Context, logger logger.Logger) int {
 
 // safeIntToInt32 は int 値を int32 に安全に変換する関数
 func safeIntToInt32(n int) (int32, error) {
-	if n > int(^int32(0)) || n < int(^int32(0)+1) {
+	if n > math.MaxInt32 || n < math.MinInt32 {
 		return 0, fmt.Errorf("%w: %d", ErrIntOverflow, n)
 	}
 

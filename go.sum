@@ -1,5 +1,5 @@
-github.com/KeitaShimura/logs-collector-protos/go v0.0.2 h1:noU+MGhiyCpBHpBmvfSgjcBLteICxdZFXk2wrwkquR8=
-github.com/KeitaShimura/logs-collector-protos/go v0.0.2/go.mod h1:CipOUY/ZJ9RBu2RZ/zzvPOCRSCBQPJib7MTQwHCvEys=
+github.com/KeitaShimura/logs-collector-protos/go v0.0.3 h1:tq0hjfAKlQw4n8+ed0OcsDnZmmL+ahkuXpDwpqqo/Jk=
+github.com/KeitaShimura/logs-collector-protos/go v0.0.3/go.mod h1:rl94FrGxY2ZgaC3xmcBlelAVsVeH6PUJiw3Q4U+k+RY=
 github.com/caarlos0/env/v11 v11.3.1 h1:cArPWC15hWmEt+gWk7YBi7lEXTXCvpaSdCiZE2X5mCA=
 github.com/caarlos0/env/v11 v11.3.1/go.mod h1:qupehSf/Y0TUTsxKywqRt/vJjN5nz6vauiYEUUr8P4U=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
